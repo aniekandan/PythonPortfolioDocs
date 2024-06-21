@@ -8,3 +8,7 @@ Welcome to my Python portfolio! As a passionate developer, I’ve worked on vari
 ## [PyExpr: A Python Expression Evaluator](https://github.com/aniekandan/pyexpr)
 
 **PyExpr** is a lightweight Python tool designed for evaluating arithmetic expressions. With a simple command-line interface, it supports basic operators like `+`, `-`, `*`, `/`, and parentheses. Whether you're calculating mathematical formulas or solving equations, **PyExpr** simplifies the process. Explore the [PyExpr repository](https://github.com/aniekandan/pyexpr) to dive into the code and enhance your mathematical toolkit!
+
+## [Hangman Game](https://github.com/aniekandan/hangman)
+
+Hangman Game is a classic word-guessing game implemented in Python. Players attempt to guess a hidden word by suggesting letters, with each incorrect guess resulting in the gradual drawing of a “hangman.” The game provides an engaging challenge while reinforcing vocabulary and spelling skills. Visit the [repository here](https://github.com/aniekandan/hangman).
