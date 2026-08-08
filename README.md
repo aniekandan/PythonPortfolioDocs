@@ -6,6 +6,10 @@ Welcome to my portfolio! As a passionate developer, I’ve worked on various pro
 
 **Zoho Helper Python Library** is an abstract, elegant, and robust Python-based library for programmatic data exchanges (ETL, synchronization) with **Zoho Creator** and **Zoho Analytics**. It removes OAuth boilerplate, standardizes REST API transport, supports complete programmatic connection management (CRUD) inside a fixed internal configuration file, and seamlessly exports records directly as clean **Pandas DataFrames**. Check out the [zoho_lib repository](https://github.com/aniekandan/zoho_lib) to explore the code and streamline your Zoho integrations!
 
+## [Expense Management System](https://github.com/aniekandan/Expense-Management-System)
+
+**Expense Management System** is a full-stack desktop and web application built with **React**, **Vite**, **TypeScript**, **Express**, and **Electron**. It features intuitive expense logging, category visualizers, budget analytics, offline-first local persistence, and an automated GitHub Actions CI/CD release workflow for portable Windows executables. Check out the [Expense Management System repository](https://github.com/aniekandan/Expense-Management-System) to explore the code or download the standalone `.exe` release!
+
 ## [HNG11 Data Analysis Internship](https://github.com/aniekandan/hng-internship-july-2024)
 
 The **HNG11 Data Analysis Internship** provided an immersive experience in data analysis, focusing on practical applications and problem-solving. I completed several projects during the internship, showcasing my skills in data manipulation, visualization, and geospatial analysis. Explore the [HNG11 Internship Repository](https://github.com/aniekandan/hng-internship-july-2024) to dive into the projects done during this internship.
