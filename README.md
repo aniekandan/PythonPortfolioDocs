@@ -1,9 +1,14 @@
-# My Python Portfolio
-Welcome to my Python portfolio! As a passionate developer, I’ve worked on various projects that showcase my skills, creativity, and problem-solving abilities. Below, you’ll find a curated list of some of my notable Python endeavors. Feel free to explore the repositories and dive into the code!
+# My Portfolio
+
+Welcome to my portfolio! As a passionate developer, I’ve worked on various projects that showcase my skills, creativity, and problem-solving abilities. Below, you’ll find a curated list of some of my notable endeavors. Feel free to explore the repositories and dive into the code!
+
+## [Zoho Helper Python Library (`zoho_lib`)](https://github.com/aniekandan/zoho_lib2)
+
+**Zoho Helper Python Library** is an abstract, elegant, and robust Python-based library for programmatic data exchanges (ETL, synchronization) with **Zoho Creator** and **Zoho Analytics**. It removes OAuth boilerplate, standardizes REST API transport, supports complete programmatic connection management (CRUD) inside a fixed internal configuration file, and seamlessly exports records directly as clean **Pandas DataFrames**. Check out the [zoho_lib2 repository](https://github.com/aniekandan/zoho_lib2) to explore the code and streamline your Zoho integrations!
 
 ## [HNG11 Data Analysis Internship](https://github.com/aniekandan/hng-internship-july-2024)
 
-The **HNG11 Data Analysis Internshi**p provided an immersive experience in data analysis, focusing on practical applications and problem-solving. I completed several projects during the internship, showcasing my skills in data manipulation, visualization, and geospatial analysis. Explore the [HNG11 Internship Repository](https://github.com/aniekandan/hng-internship-july-2024) to dive into the projects done during this internship.
+The **HNG11 Data Analysis Internship** provided an immersive experience in data analysis, focusing on practical applications and problem-solving. I completed several projects during the internship, showcasing my skills in data manipulation, visualization, and geospatial analysis. Explore the [HNG11 Internship Repository](https://github.com/aniekandan/hng-internship-july-2024) to dive into the projects done during this internship.
 
 ## [YTDown: Command-Line YouTube Downloader](https://github.com/aniekandan/YTDown)
 
