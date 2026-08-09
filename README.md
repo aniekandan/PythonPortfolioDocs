@@ -10,9 +10,9 @@ Welcome to my portfolio! As a passionate developer, I’ve worked on various pro
 
 **MathBook** is a beautiful, fully interactive, reactive notebook environment for mathematics, computation, and programming built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**, packaged as a desktop app using **Electron**. It features a reactive mathematical evaluation engine with downstream cell re-calculation, automatic cell and variable referential renaming, duplicate symbol conflict detection, and markdown block integration. Check out the [MathBook repository](https://aniekandan.github.io/MathBook/) to explore the code or try out the computational environment!
 
-## [Expense Management System](https://github.com/aniekandan/Expense-Management-System)
+## [Expense Management System](https://aniekandan.github.io/Expense-Management-System/)
 
-**Expense Management System** is a full-stack desktop and web application built with **React**, **Vite**, **TypeScript**, **Express**, and **Electron**. It features intuitive expense logging, category visualizers, budget analytics, offline-first local persistence, and an automated GitHub Actions CI/CD release workflow for portable Windows executables. Check out the [Expense Management System repository](https://github.com/aniekandan/Expense-Management-System) to explore the code or download the standalone `.exe` release!
+**Expense Management System** is a full-stack desktop and web application built with **React**, **Vite**, **TypeScript**, **Express**, and **Electron**. It features intuitive expense logging, category visualizers, budget analytics, offline-first local persistence, and an automated GitHub Actions CI/CD release workflow for portable Windows executables. Check out the [Expense Management System repository](https://aniekandan.github.io/Expense-Management-System/) to explore the code or download the standalone `.exe` release!
 
 ## [HNG11 Data Analysis Internship](https://github.com/aniekandan/hng-internship-july-2024)
 
