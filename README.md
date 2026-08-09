@@ -6,9 +6,9 @@ Welcome to my portfolio! As a passionate developer, I’ve worked on various pro
 
 **Zoho Helper Python Library** is an abstract, elegant, and robust Python-based library for programmatic data exchanges (ETL, synchronization) with **Zoho Creator** and **Zoho Analytics**. It removes OAuth boilerplate, standardizes REST API transport, supports complete programmatic connection management (CRUD) inside a fixed internal configuration file, and seamlessly exports records directly as clean **Pandas DataFrames**. Check out the [zoho_lib repository](https://aniekandan.github.io/zoho_lib/) to explore the code and streamline your Zoho integrations!
 
-## [MathBook](https://github.com/aniekandan/MathBook/)
+## [MathBook](https://aniekandan.github.io/MathBook/)
 
-**MathBook** is a beautiful, fully interactive, reactive notebook environment for mathematics, computation, and programming built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**, packaged as a desktop app using **Electron**. It features a reactive mathematical evaluation engine with downstream cell re-calculation, automatic cell and variable referential renaming, duplicate symbol conflict detection, and markdown block integration. Check out the [MathBook repository](https://github.com/aniekandan/MathBook/) to explore the code or try out the computational environment!
+**MathBook** is a beautiful, fully interactive, reactive notebook environment for mathematics, computation, and programming built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**, packaged as a desktop app using **Electron**. It features a reactive mathematical evaluation engine with downstream cell re-calculation, automatic cell and variable referential renaming, duplicate symbol conflict detection, and markdown block integration. Check out the [MathBook repository](https://aniekandan.github.io/MathBook/) to explore the code or try out the computational environment!
 
 ## [Expense Management System](https://github.com/aniekandan/Expense-Management-System)
 
