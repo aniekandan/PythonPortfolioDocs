@@ -29,3 +29,5 @@ The **HNG11 Data Analysis Internship** provided an immersive experience in data 
 ## [Hangman Game](https://github.com/aniekandan/hangman)
 
 **Hangman Game** is a classic word-guessing game implemented in Python. Players attempt to guess a hidden word by suggesting letters, with each incorrect guess resulting in the gradual drawing of a “hangman.” The game provides an engaging challenge while reinforcing vocabulary and spelling skills. Visit the [repository here](https://github.com/aniekandan/hangman).
+
+© 2026 Aniekan Daniel.
